@@ -22,3 +22,9 @@ Ao final do desafio, deve-se gerar uma apresentação respondendo a seguinte per
 - [Carlos Campos](https://www.linkedin.com/in/carlos-henrique-campos/)
 - [Leonel Maia](https://www.linkedin.com/in/leonel-maia-88461b12b/)
 - [Marcelo Cueto](https://www.linkedin.com/in/marcelo-cueto/)
+
+## Resultado
+
+_"Parabéns, vocês foram APROVADOS para participar da última etapa do BCG GAMMA Challenge 2022!"_
+
+O projeto chegou no Top 5 entre os projetos que mais se destacaram no desafio do BCG Gamma, sendo bastante elogiado pela analise bastante ampla em relacao aos aspectos da Amazonia.
